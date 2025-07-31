@@ -1,7 +1,7 @@
 # Conceptos-de-IA-Explicable
 # Inteligencia Artificial Explicable (XAI): Fundamentos y Cumplimiento Normativo
 
-Este repositorio contiene una serie de documentos analíticos y conceptuales sobre la **Inteligencia Artificial Explicable (XAI)**, una disciplina fundamental para el desarrollo ético y responsable de la IA. Los archivos exploran tanto los conceptos teóricos de la XAI como sus implicaciones prácticas, con un enfoque particular en el cumplimiento de la **Ley 21.719** de Chile.
+Este repositorio contiene una serie de documentos analíticos y conceptuales sobre la **Inteligencia Artificial Explicable (XAI)**, una disciplina fundamental para el desarrollo ético y responsable de la IA. Los archivos exploran tanto los conceptos teóricos de la XAI como sus implicaciones prácticas, con un enfoque particular en el cumplimiento de la **Ley 21.719** de Chile (Entra en vigencia en Dic 2026 https://bcn.cl/GapReB).
 
 ## Contenidos del Repositorio
 
